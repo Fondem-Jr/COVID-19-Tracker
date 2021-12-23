@@ -16,17 +16,17 @@ test('it should handle adding countries covid record to the store', () => {
   const newState = covidReducer(
     previousState,
     addCountry({
-      name: 'Nigeria',
-      id: 'Nig',
-      total_confirmed: 100,
+      name: 'Cameroon',
+      id: 'Cameroon',
+      total_confirmed: 500,
     }),
   );
   expect(newState).toEqual({
     countries: [
       {
-        name: 'Nigeria',
-        id: 'Nig',
-        total_confirmed: 100,
+        name: 'Cameroon',
+        id: 'Cameroon',
+        total_confirmed: 500,
       },
     ],
     totalConfirmed: 0,
