@@ -1,24 +1,24 @@
 * {
-    margin: 0;
-    padding: 0;
-  }
-  
-  .bg-blue-dark {
-    background: #0946c0;
-  }
-  
-  .bg-blue-light {
-    background-color: #0057ff;
-  }
-  
-  body {
-    background-color: #0057ff;
-  }
-  
-  .no-shadow:focus {
-    box-shadow: none;
-  }
-  
-  .input-group-text {
-    padding: 10px;
-  }
+  margin: 0;
+  padding: 0;
+}
+
+.bg-blue-dark {
+  background: #0946c0;
+}
+
+.bg-blue-light {
+  background-color: #0057ff;
+}
+
+body {
+  background-color: #0057ff;
+}
+
+.no-shadow:focus {
+  box-shadow: none;
+}
+
+.input-group-text {
+  padding: 10px;
+}
