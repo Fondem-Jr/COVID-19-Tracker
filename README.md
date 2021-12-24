@@ -29,9 +29,9 @@ Details page for the country details.
 ## Deployment Live Demo
 
  - Deployed with on Netlify
-  - [Live Demo]()
+  - [Live Demo](https://corona-track-app.netlify.app/)
 ## Video Presentation
- - [loom video]() 
+ - [loom video](https://www.loom.com/share/e23be02bc5d944ab9d8da39f00132235) 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
