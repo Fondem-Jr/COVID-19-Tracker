@@ -15,7 +15,7 @@ const Details = () => {
       <div
         className={`d-flex justify-content-between
           align-items-center p-2 text-white
-          ${index % 2 ? 'bg-pink-dark' : 'bg-pink-light'}`}
+          ${index % 2 ? 'bg-blue-dark' : 'bg-blue-light'}`}
         key={region.id}
       >
         <h5 className="m-0 fw-light">{region.name}</h5>
@@ -29,7 +29,7 @@ const Details = () => {
       </div>
     ))
   ) : (
-    <div className="bg-pink-dark text-white d-flex align-items-center p-2">
+    <div className="bg-blue-dark text-white d-flex align-items-center p-2">
       <h5 className="m-0 fw-light ps-3">
         These Regions Are Currently Not At Our Disposal
       </h5>
@@ -37,7 +37,7 @@ const Details = () => {
   );
 
   return (
-    <div className="pt-3 bg-pink-light">
+    <div className="pt-3 bg-blue-light">
       <Row className="m-0">
         <Col
           xs={6}
@@ -55,7 +55,7 @@ const Details = () => {
           </p>
         </Col>
       </Row>
-      <Row className="m-0 mt-4 bg-pink-dark">
+      <Row className="m-0 mt-4 bg-blue-dark">
         <h6 className="text-black fw-bold p-2 m-0">
           {`${country.name.toUpperCase()} CASES BREAKDOWN`}
         </h6>

@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Header = () => (
   <header>
-    <Navbar className="px-4 text-white bg-pink-dark d-flex justify-content-between">
+    <Navbar className="px-4 text-white bg-blue-dark d-flex justify-content-between">
       <Link to="/" className="text-decoration-none text-white fw-bold">
         &#60; HOME
       </Link>

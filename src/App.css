@@ -3,16 +3,16 @@
     padding: 0;
   }
   
-  .bg-pink-dark {
-    background: #fb5092;
+  .bg-blue-dark {
+    background: #0946c0;
   }
   
-  .bg-pink-light {
-    background-color: #d6608e;
+  .bg-blue-light {
+    background-color: #0057ff;
   }
   
   body {
-    background-color: #cf4278;
+    background-color: #0057ff;
   }
   
   .no-shadow:focus {
