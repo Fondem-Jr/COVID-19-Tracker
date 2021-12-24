@@ -29,9 +29,9 @@ Details page for the country details.
 ## Deployment Live Demo
 
  - Deployed with on Netlify
-  - [Live Demo](https://cocky-williams-122084.netlify.app/)
+  - [Live Demo]()
 ## Video Presentation
- - [loom video](https://loom.com/share/f5b7840114e645999084a901c03c2eca) 
+ - [loom video]() 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
